@@ -1,0 +1,21 @@
+# part 1
+flask==1.1.1
+gunicorn==20.0.0
+
+# part 2
+psycopg2==2.8.4
+flask-script==2.0.6
+flask-sqlalchemy==2.4.1
+flask-migrate==2.5.2
+
+# part 3
+# requests
+# beautifulsoup4
+# nltk
+
+# part 4
+# redis
+# rq
+
+# utils
+ipython==7.9.0

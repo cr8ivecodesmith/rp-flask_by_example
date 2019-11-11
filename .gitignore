@@ -1,0 +1,6 @@
+.python-version
+*.py[cod]
+__pycache__
+
+var/lib/*
+!var/lib/empty
